@@ -1,0 +1,10 @@
+This project contains following operations using windows form application
+1. Fetching the Web name using CSOM 
+2. Updating the Web name
+3. Creating Sharepoint List
+4. Deleteing sharepoint list
+5. Creating Sahrepoint Column
+6. Deleteing Sharepoint Column
+7. Inserting values to the list
+8. Deleting Data from the list.
+9. Adding multiple values to the list.
